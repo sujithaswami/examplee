@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "dell",
+      "price": 50000,
+      "quantity": 1,
+      "gst": 18,
+      "total": 0
+    },
+    {
+      "id": 2,
+      "name": "hp",
+      "price": 50000,
+      "quantity": 2,
+      "gst": 18,
+      "total": 0
+    },
+    {
+      "id": 3,
+      "name": "lenevo",
+      "price": 50000,
+      "quantity": 3,
+      "gst": 18,
+      "total": 0
+    },
+    {
+      "id": 4,
+      "name": "acer",
+      "price": 50000,
+      "quantity": 4,
+      "gst": 18,
+      "total": 0
+    }
+  ],
+  "Orders": [
+    {
+      "id": 1,
+      "name": "biryani",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "name": "coke",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "name": "drink",
+      "price": 2000
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 4
+    },
+    {
+      "name": "biryani",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "name": "biryani",
+      "price": "300",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "thumsup",
+      "price": "500"
+    },
+    {
+      "name": "pizza",
+      "price": "350",
+      "id": 8
+    },
+    {
+      "name": "dairy milk",
+      "price": "200",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "pizza",
+      "price": "200",
+      "id": 13
+    },
+    {
+      "name": "pizza",
+      "price": "400",
+      "id": 14
+    }
+  ]
+}

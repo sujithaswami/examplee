@@ -1,0 +1,19 @@
+
+.half-page {
+  display: flex;
+  height: 100vh; /* 100% of the viewport height */
+}
+
+.left-half {
+  flex: 1; /* Take up 50% of the width */
+  background-color: #3498db; /* Set the color for the left half */
+  color: #fff; /* Text color for the left half */
+  padding: 20px;
+}
+
+.right-half {
+  flex: 1; /* Take up 50% of the width */
+  background-color: #ecf0f1; /* Set the color for the right half */
+  color: #333; /* Text color for the right half */
+  padding: 20px;
+}

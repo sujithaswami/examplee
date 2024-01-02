@@ -1,0 +1,12 @@
+.menu {
+     background-color: rgb(234, 17, 219);
+}
+.menu-item {
+    color: skyblue;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu-item:hover {
+    color: white;
+    text-decoration: none;
+}
